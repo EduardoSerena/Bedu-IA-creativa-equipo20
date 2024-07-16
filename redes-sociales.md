@@ -6,6 +6,8 @@
 
 > "Agrega a la tabla un espacio para el llamado a la acción: el texto original es "¿Te sientes identificado en alguno de estos puntos? ¿El burn-out ya se apoderó de tu entorno de trabajo? Comunicaque con nosotros para apoyarte con psicoterapia para poder a disfrutar de tus espacios recurrentes". Mejoralo y agregalo a la tabla que hiciste anteriormente."
 
+---
+
 ## Resultado:
 
 | Texto Original | Versión Millennial |
@@ -24,10 +26,11 @@
 
 ¡Por supuesto! Aquí está la tabla actualizada con el llamado a la acción incluido: Espero que esta versión sea efectiva para conectar con tu audiencia millennial.
 
+---
+
 ### Imagenes y resultado final:
 
-![Carrusel](media/carousel/1.jpg)
-![Carrusel](media/carousel/2.jpg)
-![Carrusel](media/carousel/3.jpg)
-![Carrusel](media/carousel/4.jpg)
-![Carrusel](media/carousel/5.jpg)
+![Factores personales](media/factores-personales.jpg)
+![Factores laborales](media/factores-laborales.jpg)
+![Burnout laboral](media/burnout-laboral.jpg)
+![Disminucion de realizacion personal](media/disminucion-de-realizacion-personal.jpg)

@@ -2,6 +2,8 @@
 
 > "Prompt: Eres un asesor terapeutico con un despacho de apoyo psicologico para empresa. Estas promocionando tus servicios enfocandolo en burn-out para millenials que trabajan en home-office. Mejora la siguiente información con un tono más agradable y cercano, para que puedas utilizarla para una infografía que será enviada por e-mail. Agrega al inicio un llamado a la acción para que vean el contenido; y al final haz un llamado a la acción para que se comuniquen para conocer más sobre el burn-out y darle solución.  Crea también un Asunto para el e-mail."
 
+---
+
 ## Resultado:
 
 ¡Hola! 😊  
@@ -28,4 +30,8 @@ Si deseas más información o necesitas ayuda, ¡no dudes en contactarnos! Estam
 
 ### Imagenes y resultado final:
 
-![Mail - Infografía](media/mail.jpg)
+![Mail - Intervenciones organizacionales](media/intervenciones-organizacionales-1.jpg)
+![Mail - Intervenciones organizacionales](media/intervenciones-organizacionales-2.jpg)
+![Mail - Autocuidado y desarrollo personal](media/autocuidado-y-desarrollo-personal-1.jpg)
+![Mail - Autocuidado y desarrollo personal](media/autocuidado-y-desarrollo-personal-2.jpg)
+![Mail - Ayuda profesional](media/ayuda-profesional.jpg)
