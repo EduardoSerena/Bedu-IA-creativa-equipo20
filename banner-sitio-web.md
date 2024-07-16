@@ -36,7 +36,13 @@ Recuerda que cuidarte a ti mismo es fundamental. ¡Estamos aquí para apoyarte e
 
 ---
 
-### Imagenes y resultado final:
+### Imagenes:
 
 ![Agotamiento emocional](media/agotamiento-emocional.jpg)
 ![Despersonalización](media/despersonalizacion.jpg)
+
+---
+
+### Resultado final:
+
+![Banner](media/banner.jpg)

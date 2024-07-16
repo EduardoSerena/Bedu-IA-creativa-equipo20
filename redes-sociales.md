@@ -28,9 +28,18 @@
 
 ---
 
-### Imagenes y resultado final:
+### Imagenes:
 
 ![Factores personales](media/factores-personales.jpg)
 ![Factores laborales](media/factores-laborales.jpg)
 ![Burnout laboral](media/burnout-laboral.jpg)
 ![Disminucion de realizacion personal](media/disminucion-de-realizacion-personal.jpg)
+
+---
+
+### Resultado final:
+
+![Carosel 1](media/carousel-1.jpg)
+![Carosel 2](media/carousel-2.jpg)
+![Carosel 3](media/carousel-3.jpg)
+![Carosel 4](media/carousel-4.jpg)
