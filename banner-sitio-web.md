@@ -45,4 +45,4 @@ Recuerda que cuidarte a ti mismo es fundamental. ¡Estamos aquí para apoyarte e
 
 ### Resultado final:
 
-![Banner](media/banner.jpg)
+![Banner](media/banner.png)

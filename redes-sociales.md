@@ -39,7 +39,7 @@
 
 ### Resultado final:
 
-![Carosel 1](media/carousel-1.jpg)
-![Carosel 2](media/carousel-2.jpg)
-![Carosel 3](media/carousel-3.jpg)
-![Carosel 4](media/carousel-4.jpg)
+![Carosel 1](media/carousel-1.png)
+![Carosel 2](media/carousel-2.png)
+![Carosel 3](media/carousel-3.png)
+![Carosel 4](media/carousel-4.png)

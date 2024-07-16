@@ -40,4 +40,4 @@ Si deseas más información o necesitas ayuda, ¡no dudes en contactarnos! Estam
 
 ### Resultado final:
 
-![Email](media/email.jpg)
+![Email](media/email.png)
