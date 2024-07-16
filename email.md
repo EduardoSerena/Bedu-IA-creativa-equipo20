@@ -28,7 +28,7 @@ Asunto del E-mail: “Cuida tu Bienestar en el Trabajo: Estrategias contra el Bu
 
 Si deseas más información o necesitas ayuda, ¡no dudes en contactarnos! Estamos aquí para ti. 😊
 
-### Imagenes y resultado final:
+### Imagenes:
 
 ![Mail - Intervenciones organizacionales](media/intervenciones-organizacionales-1.jpg)
 ![Mail - Intervenciones organizacionales](media/intervenciones-organizacionales-2.jpg)
