@@ -38,6 +38,7 @@ Recuerda que cuidarte a ti mismo es fundamental. ¡Estamos aquí para apoyarte e
 
 ### Imagenes:
 
+![Factores laborales](media/factores-laborales.jpg)
 ![Agotamiento emocional](media/agotamiento-emocional.jpg)
 ![Despersonalización](media/despersonalizacion.jpg)
 

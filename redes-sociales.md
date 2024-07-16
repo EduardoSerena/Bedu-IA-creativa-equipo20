@@ -34,6 +34,7 @@
 ![Factores laborales](media/factores-laborales.jpg)
 ![Burnout laboral](media/burnout-laboral.jpg)
 ![Disminucion de realizacion personal](media/disminucion-de-realizacion-personal.jpg)
+![Presión social](media/presion-social.jpg)
 
 ---
 
